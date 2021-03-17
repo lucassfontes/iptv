@@ -10,7 +10,8 @@
   </channel>
   <channel id="AMC HD¹">
     <display-name lang="pt">AMC HD¹</display-name>
-    <url>http://www.meuguia.tv</url>
+    <icon src="../canais/1600127853.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CANAL SONY HD²">
     <display-name lang="pt">CANAL SONY HD²</display-name>
