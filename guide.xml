@@ -1,8 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="GLOBO">
-    <display-name lang="pt">GLOBO</display-name>
-    <icon src="../canais/1602678798.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="DISCOVERY CHANNEL HD DUAL ²">
+    <display-name lang="es">DISCOVERY CHANNEL HD DUAL ²</display-name>
+    <url>http://www.telered.com.ar</url>
   </channel>
+  <programme start="20210317010000 -0300" stop="20210317050000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">Re despiertos</title>
+  </programme>
+  <programme start="20210317050000 -0300" stop="20210317060000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">Tiempo, tránsito y noticias</title>
+  </programme>
+  <programme start="20210317060000 -0300" stop="20210317100000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">TN de 6 a 10</title>
+  </programme>
+  <programme start="20210317100000 -0300" stop="20210317140000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">TN de 10 a 14</title>
+  </programme>
+  <programme start="20210317140000 -0300" stop="20210317170000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">Nuestra tarde</title>
+  </programme>
+  <programme start="20210317170000 -0300" stop="20210317190000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">Está pasando</title>
+  </programme>
+  <programme start="20210317190000 -0300" stop="20210317210000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">TN Central</title>
+  </programme>
+  <programme start="20210317210000 -0300" stop="20210317220000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">Solo una vuelta más</title>
+  </programme>
+  <programme start="20210317220000 -0300" stop="20210317233000 -0300" channel="DISCOVERY CHANNEL HD DUAL ²">
+    <title lang="es">A dos voces</title>
+  </programme>
 </tv>
