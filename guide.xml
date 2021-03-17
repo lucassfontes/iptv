@@ -1,28 +1,8 @@
-<?xml version="1.0"?>
-<settings>
-   
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
-  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
-   
-  <filename>guide.xml</filename>
-  <mode></mode>
-  <postprocess grab="y" run="n">rex</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
-  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
-  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
-  <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>0</timespan>
-  <update>f</update>
- 
-  <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-        
-    <channel update="i" site="lineup.net.br" site_id="188515" xmltv_id="GLOBO">GLOBO</channel>
-
-</settings>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="GLOBO">
+    <display-name lang="pt">GLOBO</display-name>
+    <icon src="../canais/1599221722.gif|../canais/1601579868.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
