@@ -2,22 +2,22 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="GLOBO  FLORIANOPOLIS HD¹">
     <display-name lang="pt">GLOBO  FLORIANOPOLIS HD¹</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="RECORD BAHIA HD²">
     <display-name lang="pt">RECORD BAHIA HD²</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="AMC HD¹">
     <display-name lang="pt">AMC HD¹</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CANAL SONY HD²">
     <display-name lang="pt">CANAL SONY HD²</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="DISCOVERY CHANNEL HD DUAL ²">
     <display-name lang="pt">DISCOVERY CHANNEL HD DUAL ²</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
 </tv>
