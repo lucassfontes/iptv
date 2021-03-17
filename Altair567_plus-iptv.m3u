@@ -1,16 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Canais | Abertos" tvg-id="redeglobo.br" tvg-name="GLOBO  FLORIANOPOLIS HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO  FLORIANOPOLIS HD¹
+#EXTINF:-1 group-title="Canais | Abertos" tvg-id="redeglobo.br" tvg-name="GLOBO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" ,GLOBO
 http://vvraw.com:2082/Altair567/356738473/7047
-
-#EXTINF:-1 group-title="Canais | Abertos" tvg-id="recordtvbrasília.br" tvg-name="RECORD BAHIA HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" ,RECORD BAHIA HD²
-http://vvraw.com:2082/Altair567/356738473/3825
-
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-id="amc.br" tvg-name="AMC HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" ,AMC HD¹
-http://vvraw.com:2082/Altair567/356738473/6928
-
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-id="sony.br" tvg-name="CANAL SONY HD²" tvg-logo="https://canaismax.com/img/canais/df8d626adf25a27152e6d43c40334d1c.png" ,CANAL SONY HD²
-http://vvraw.com:2082/Altair567/356738473/4134
-
-#EXTINF:-1 group-title="Canais | Documentários" tvg-id="discoverchannel.br" tvg-name="DISCOVERY CHANNEL HD DUAL ²" tvg-logo="https://brandslogo.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png" ,DISCOVERY CHANNEL HD DUAL ²
-http://vvraw.com:2082/Altair567/356738473/3939
