@@ -1,0 +1,187 @@
+#EXTM3U
+
+CANAIS DA BELGICA
+
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/c8/01/37519/1/c175.png" ,BEL Radio PROS (Webradio)
+https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" ,BEL RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/YjKqWru.png" ,BX1
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/JJcnXUF.png" ,Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/uoSMNnr.png" ,Canal Zoom
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/xVgqbbT.jpg" ,Canvas
+https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" ,City Music (Webradio)
+http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/5LtGMnF.png" ,EBS Europe
+https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_alb=96000-video=1600000.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/hWfo6az.png" ,Een
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://www.funradio.be/wp-content/themes/rise/assets/img/funradio.png" ,Fun Radio (Webradio)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/Du0YAJS.png" ,Ketnet
+https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/eDYaphB.png" ,Ketnet Junior
+http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/bp1Qp0d.png" ,LN24
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.ibb.co/m48XZS7/matele.png" ,MaTele
+https://594a365b4a1b2.streamlock.net/matele/live/chunklist_w1413980839.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mnm_logo.svg/180px-Mnm_logo.svg.png" ,MNM (Webradio)
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/8CWBmcN.png" ,NoTele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/s0CZjmi.png" ,Q-Music (Webradio)
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://www.radiocontact.be/GED/00110000/118600/118657.png" ,Radio Contact (Webradio)
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/RMjFeGE.png" ,Radio Pros (Webradio)
+http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/yjtxdmh.png" ,RTL TVI
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/JFVEcEA.png" ,TV Oost
+http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
+#EXTINF:-1 group-title="País | 🇧🇪 Bélgica" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" ,XITE (BE)
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+
+CANAIS DA FRANCA
+
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" ,A2i Music
+https://stream.sen-gt.com/A2iMusic/myStream/chunklist_w652109108.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" ,A2i Naja
+https://stream.sen-gt.com/A2iNaija/myStream/chunklist_w59258816.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" ,A2i Religion
+https://stream.sen-gt.com/A2iReligion/myStream/chunklist_w672043691.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/tH7EZL4.jpg" ,A2i TV
+https://stream.sen-gt.com/A2itv/myStream/chunklist_w1124459956.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/S8TuhyF.png" ,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" ,Amuse Animation
+https://amuse-amuseanimation-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/EPIMMaB.png" ,Antenne Reunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/mihujKt.jpg" ,BFM Business
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/kTvLQ0E.png" ,BFM Grand Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/hcHtoYp.png" ,BFM Grand Littoral
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/vgd7M72.png" ,BFM Lyon
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/GMKyF3Y.png" ,BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/hChduSn.png" ,Big Name
+https://alchimie-big-names-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/YFEqBS7.png" ,Bip TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/4zJqmw6.png" ,Caillou
+https://dhx-caillou-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/JQaZblm.jpg" ,Classical Harmony
+https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/o1qKoje.jpg" ,Comedy Movies
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/cThInij.png" ,D5 TV (FR)
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/KOlCUJ9.jpg" ,DBM
+https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/CCvzqLJ.png" ,Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" ,Euronews
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" ,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://goo.gl/XIfpjw" ,FRANCE 24
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/61MSiq9.png" ,France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/daUGyPl.jpg" ,Generations TV
+https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/tzurFum.png" ,Holygod TV
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/DFjN26b.jpg" ,Humanity
+https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" ,ILTV
+https://str81.creacast.com/iltv/high/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" ,KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/xDLwsbY.png" ,La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/6VzdKEa.png" ,LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/8tWhfap.png" ,Luxe TV
+https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" ,MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/Srl2swj.jpg" ,Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" ,Moods
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/dwOoEmE.jpg" ,Movies Central
+https://alchimie-movies-central-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/byD2nrE.png" ,My Surf TV
+https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" ,MyComedy
+https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/W43rv1R.jpg" ,Nancy Web TV
+https://edge4.vedge.infomaniak.com/livecast/ik:nancy-webtv/manifest.m3u8?spark=4bb70108-16ee-48ef-b780-08d91bffccbc&token=
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/mcgIxUN.png" ,NRJ Hits
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/UTo9vCc.jpg" ,Obosso TV
+https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/lS8tTMV.png" ,Passion Fiction
+https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/msHBlDz.png" ,People are Awesome
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/R8TT3Ld.png" ,Qwest Classical
+https://qwestclassic-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/R8TT3Ld.png" ,Qwest Jazz and Beyond
+https://qwestjazz-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/R8TT3Ld.png" ,Qwest TV MIX
+https://qwestmix-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/ekRMtra.png" ,Radio Contact
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" ,RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/gVedXRh.png" ,RT France
+https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/6L6hQnn.png" ,Sport en France
+https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" ,Spotlight
+https://rakuten-spotlight-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/WpQ3N82.png" ,Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/kUmPbel.jpg" ,Supertoons TV
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/Y2C6vP7.png" ,TF 1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/qFLq6lE.png" ,TF 1 Series Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/yJ5JRAK.png" ,TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/qgNyto3.jpg" ,TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/s9BIeQ8.png" ,TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/oMXfdkV.png" ,TV Shows
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://goo.gl/7tKLeF" ,TV5 MONDE INFO
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/AJx5Fy2.png" ,TV5 Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" ,TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/index.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/RT3pz5L.png" ,TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/d8k69pg.png" ,TVR
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/6Iw1YRL.png" ,TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/WCjP4Wk.jpg" ,TébéSud
+https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/6Tnidgh.png" ,viaMatele
+https://streamer03.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919.m3u8
+#EXTINF:-1 group-title="País | 🇫🇷 França" tvg-logo="https://i.imgur.com/YXUMEbi.png" ,viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
